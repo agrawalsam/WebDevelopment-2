@@ -1,0 +1,21 @@
+html,
+body{
+    height:100%;
+}
+#cover{
+    background:#222 url('digitalbanking3.jpg') center no-repeat;
+    background-size:cover;
+    color:black;
+    height:100%;
+}
+#cover1{
+    color:white;
+    text-align:center;
+    display:flex;
+    margin-top:270px;
+    align-items:center;
+    height:100%;
+}
+#cover-caption{
+    width:100%;
+}
